@@ -13,4 +13,4 @@ This sample code demonstrates a REST API for CRUD data manipulation of a use cas
 
 ## Documentation
 
-The project is documented "in-code" via OpenAPI.
+The project is documented "in-code" via OpenAPI (Swagger).
