@@ -10,3 +10,7 @@ This sample code demonstrates a REST API for CRUD data manipulation of a use cas
 
 - FastAPI application is located in app/main.py
 - Implementations of API endpoints and CRUD operations are located in app/routers/ folder.
+
+## Documentation
+
+The project is documented "in-code" via OpenAPI.
