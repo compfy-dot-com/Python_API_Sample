@@ -2,7 +2,11 @@
 
 This sample code demonstrates a REST API for CRUD data manipulation of a use case of item stock in multiple stores.
 
-![ERD for database scheme](https://github.com/compfy-dot-com/Python_API_Sample/blob/master/app/images/TestDatabaseERD.png)
+![ERD for database schema](https://github.com/compfy-dot-com/Python_API_Sample/blob/master/app/images/TestDatabaseERD.png)
 
 
 
+## Files
+
+- FastAPI application is located in app/main.py
+- Implementations of API endpoints and CRUD operations are located in app/routers/ folder.
