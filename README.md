@@ -4,7 +4,7 @@ This sample code demonstrates a REST API for CRUD data manipulation of a use cas
 
 ![ERD for database schema](https://github.com/compfy-dot-com/Python_API_Sample/blob/master/app/images/TestDatabaseERD.png)
 
-
+Written for Python 3.11.
 
 ## Files
 
